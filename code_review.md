@@ -59,7 +59,7 @@
 
 
 
-## step5 furthermore thinking as a senior level (recommand us)
+## step5 furthermore thinking as an expert (recommand us)
  this part is a thinkg part, give your recommond is enough.
   - ### issues on concurrency,Concurrency is where the hard bugs live
        is there any shared state being accessed without lock?  
